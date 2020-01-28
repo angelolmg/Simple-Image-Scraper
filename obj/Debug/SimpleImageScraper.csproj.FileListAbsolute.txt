@@ -1,0 +1,6 @@
+C:\Users\angel\source\repos\SimpleImageScraper\obj\Debug\SimpleImageScraper.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\SimpleImageScraper\bin\Debug\SimpleImageScraper.exe.config
+C:\Users\angel\source\repos\SimpleImageScraper\bin\Debug\SimpleImageScraper.exe
+C:\Users\angel\source\repos\SimpleImageScraper\bin\Debug\SimpleImageScraper.pdb
+C:\Users\angel\source\repos\SimpleImageScraper\obj\Debug\SimpleImageScraper.exe
+C:\Users\angel\source\repos\SimpleImageScraper\obj\Debug\SimpleImageScraper.pdb
